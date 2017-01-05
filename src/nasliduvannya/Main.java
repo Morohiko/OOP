@@ -5,7 +5,6 @@ package nasliduvannya;
  */
 class Main {
     public static void main(String[] args) {
-
         new TractorT25();
         new TractorT25(1967);
         new TankKV3();

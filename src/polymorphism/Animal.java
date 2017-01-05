@@ -5,6 +5,7 @@ package polymorphism;
  */
 interface Animal {
     void name();
+    void N();
     void move();
     void voise();
 

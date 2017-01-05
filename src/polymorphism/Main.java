@@ -5,7 +5,8 @@ package polymorphism;
  */
 class Main {
     public static void main(String[] args) {
-        new Dog();
-        new Snake();
+        new Win();
+//        new Dog();
+//        new Snake();
     }
 }
